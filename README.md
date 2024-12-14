@@ -1,2 +1,1 @@
-# Javascript_projects
-This repository contains  5 JS projects involving DOM manipulation,API handling ,html,css and more.
+Basic and mandatory TODO list made through html,css ,Javascript and also uses DOM manipulation and using local storage
